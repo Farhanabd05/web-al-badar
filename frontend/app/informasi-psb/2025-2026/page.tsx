@@ -49,7 +49,7 @@ export default function PSB20252026Page() {
                   Daftar mudah dan cepat melalui formulir online kami
                 </p>
                 <a 
-                  href="https://bit.ly/4jLdBbC" 
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSfckzf78qVjw2rPQKgTgeNA9T8rvku6WIfPUeijgAgCbI_dMQ/viewform?usp=header" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-gradient-to-r from-green-600 to-green-500 text-white py-3 px-6 rounded-lg font-medium hover:from-green-700 hover:to-green-600 transition-all duration-300 inline-flex items-center group"
@@ -216,7 +216,7 @@ export default function PSB20252026Page() {
               
               <div className="mt-6 text-center">
                 <a 
-                  href="https://bit.ly/4jLdBbC" 
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSfckzf78qVjw2rPQKgTgeNA9T8rvku6WIfPUeijgAgCbI_dMQ/viewform?usp=header" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-gradient-to-r from-blue-600 to-purple-600 text-white py-3 px-8 rounded-lg font-medium hover:from-blue-700 hover:to-purple-700 transition-all duration-300 inline-flex items-center"
@@ -277,7 +277,7 @@ export default function PSB20252026Page() {
                 Wujudkan impian menjadi hafiz Al-Qur'an dan berakhlak mulia di Pondok Pesantren Al-Badar
               </p>
               <a 
-                href="https://bit.ly/4jLdBbC" 
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfckzf78qVjw2rPQKgTgeNA9T8rvku6WIfPUeijgAgCbI_dMQ/viewform?usp=header" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-white text-green-600 py-3 px-8 rounded-lg font-bold hover:bg-gray-100 transition-all duration-300 inline-flex items-center"
