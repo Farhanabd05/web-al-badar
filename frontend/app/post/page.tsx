@@ -14,7 +14,7 @@ type Post = {
 }
 
 export default async function PostPage() {
-  const data = await getAllPosts()
+  const data = await getAllPosts() as { allPosts: Post[] }
   const posts = data.allPosts
 
   return (

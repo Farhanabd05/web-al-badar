@@ -24,7 +24,7 @@ export async function generateStaticParams() {
       }
     }
   `
-  const data = await client.request(query)
+  const data = await client.request(query) as { allPosts: { slug: string }[] }
   return data.allPosts.map((post: any) => ({
     slug: post.slug,
   }))
@@ -44,7 +44,7 @@ async function getPost(slug: string): Promise<Post> {
       }
     }
   `
-  const data = await client.request(query, { slug })
+  const data = await client.request(query, { slug }) as { post: Post }
   return data.post
 }
 
